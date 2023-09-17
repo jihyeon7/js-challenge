@@ -1,0 +1,17 @@
+body{
+    background: rgba(0, 0, 0, 0.7);
+}
+
+.hidden{
+    display: none;
+}
+
+#Area {
+    position: fixed;
+    display: flex;
+    margin: auto;
+    left: 0;
+    top: 0;
+    backdrop-filter: blur(17px);
+}
+
